@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.scrollback": 3000,
+    "git.autoStash": false,
+    "github.branchProtection": true,
+    "debug.javascript.resourceRequestOptions": {
+        
+    }
+}
